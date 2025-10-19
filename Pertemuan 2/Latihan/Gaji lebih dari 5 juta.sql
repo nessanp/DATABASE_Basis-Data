@@ -1,0 +1,2 @@
+SELECT * FROM Pegawai
+WHERE Gaji > 5000000;

@@ -1,0 +1,3 @@
+SELECT *
+FROM pegawai
+WHERE usia BETWEEN 30 AND 40;
